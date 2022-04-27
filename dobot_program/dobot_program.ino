@@ -146,6 +146,7 @@ if(repeat <1){
  }   
     
 }
+repeat = 1;
  }
 }
 
